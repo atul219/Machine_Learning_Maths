@@ -1,9 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Wed Sep  5 20:09:54 2018
-
-@author: Atul
-"""
 
 import random
 import matplotlib.pyplot as plt
