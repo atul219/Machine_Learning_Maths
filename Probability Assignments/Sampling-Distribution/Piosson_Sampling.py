@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Wed Sep  5 20:36:26 2018
-
-@author: Atul
-"""
-
 import random
 import matplotlib.pylab as plt
 import numpy as np 
