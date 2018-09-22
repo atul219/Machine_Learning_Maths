@@ -46,10 +46,10 @@ while(True):
         func_new = 4*new_value[0] + 2*(new_value[0]**2) + 3*(new_value[0]**3)
 
 
-        ## print(initial_value , new_value)
+        
 
         if(abs(initial_value - new_value)<esp)or np.isnan(func_new)==True:
-           ## print('hello')
+           
             break;
         initial_value = new_value
         old_value = initial_value
